@@ -6,7 +6,7 @@ tensorflow==2.16.1
 numpy
 matplotlib
 SpeechRecognition
-pyaudio
+sounddevice
 textblob
 nltk
 import_ipynb
