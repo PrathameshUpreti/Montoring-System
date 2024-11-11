@@ -2,7 +2,7 @@ mediapipe==0.10.13
 opencv-python==4.8.0.74
 pandas
 streamlit
-tensorflow==2.15.0
+tensorflow==2.16.1
 numpy
 matplotlib
 SpeechRecognition
