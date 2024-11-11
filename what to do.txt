@@ -1,0 +1,46 @@
+----> we are going to analyse the pose of the person using mediapipe opencv.
+----->for pose detection using mediapipe.pose
+----->create a requiremnt.txt and install all libaries
+------> create a conda environment as venev
+------>create a main.ipynb to create the model
+
+------>import all the libaries in the main.ipynb file and create the function for detection as for standing walking etc.calculating the angle using the numpy . use opencv and mediapipe to open 
+the camera and exxtracting the landamrks in the image.
+
+
+
+
+
+
+
+
+------> Analyse the maintenence of the class room ie the class room is clean messy dirty etc.
+------> Add the requiremnt in requirement.txt file such as tensorflow sciktit-learn etc
+------> We are going to use the ANN model to analyse this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------->Real Time Speech Sentiment Dectection--------------------------->
+
+------> We are going to use NLP (Natural Processing Language) with the python libaries Speech SpeechRecognition and pyaudio.
+----->Going to do Text Preprossing by the libarie nltk and TextBlob for the sentiment analyse.
+----->create a function to get the audio by microphone and use google to convert the speech into the text.
+----->sentiment give two value Polarity and subjectivity.
+---->Polarity tells how much positive or negitive the comment or sppech is (ranges from -1 to 1)
+---->Subjective tells weather the speech is Public Opinion or Factual information(range fron 0 to 1)
+
+----> we are going to use the Polarity here since we want to find how positve or negative the person is speaking.
